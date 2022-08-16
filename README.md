@@ -2,6 +2,8 @@
 
 I am Glenn :) Welcome
 
+![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevey&show_icons=true&theme=cobalt&count_private=true)
+
 <!--
 **hevey/hevey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
